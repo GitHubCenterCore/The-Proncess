@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/im going to take your mind.wav-916467933868c58bdf40ec166ece8082.sample"
+
+[deps]
+
+source_file="res://im going to take your mind.wav"
+dest_files=[ "res://.import/im going to take your mind.wav-916467933868c58bdf40ec166ece8082.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

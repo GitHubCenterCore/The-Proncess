@@ -1,0 +1,11 @@
+[gd_resource type="SpatialMaterial" load_steps=2 format=2]
+
+[ext_resource path="res://cantaloupewall.png" type="Texture" id=1]
+
+[resource]
+flags_unshaded = true
+flags_albedo_tex_force_srgb = true
+flags_do_not_receive_shadows = true
+params_specular_mode = 4
+params_cull_mode = 2
+albedo_texture = ExtResource( 1 )

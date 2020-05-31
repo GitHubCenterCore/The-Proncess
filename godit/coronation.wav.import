@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/coronation.wav-ad18449ce2f348610ca602f1ff54f70b.sample"
+
+[deps]
+
+source_file="res://coronation.wav"
+dest_files=[ "res://.import/coronation.wav-ad18449ce2f348610ca602f1ff54f70b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

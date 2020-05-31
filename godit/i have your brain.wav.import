@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/i have your brain.wav-1eed1b1a9c20accb798d5f7709b73af5.sample"
+
+[deps]
+
+source_file="res://i have your brain.wav"
+dest_files=[ "res://.import/i have your brain.wav-1eed1b1a9c20accb798d5f7709b73af5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
